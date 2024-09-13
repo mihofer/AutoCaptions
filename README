@@ -10,7 +10,7 @@ Tested with Python 3.11
 1. Install packages with `pip install -r requirements.txt`
 2. Get the COCO 2014 dataset from <https://cocodataset.org/#home> and store in a `data` folder (folder is defined at the top of the notebooks as `datapath`)
 3. Then run in following order 
-   1. `check_coco.ipynb` <a target="_blank" href="https://colab.research.google.com/github/mihofer/AutoCaptions/blob/master/check_coco.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-   2. `preliminaries.ipynb` <a target="_blank" href="https://colab.research.google.com/github/mihofer/AutoCaptions/blob/master/preliminaries.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-   3. `training.ipynb` <a target="_blank" href="https://colab.research.google.com/github/mihofer/AutoCaptions/blob/master/training.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-   4. `inference.ipynb` <a target="_blank" href="https://colab.research.google.com/github/mihofer/AutoCaptions/blob/master/inference.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+   1. `check_coco.ipynb` [![GoogleColab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mihofer/AutoCaptions/blob/master/check_coco.ipynb)
+   2. `preliminaries.ipynb` [![GoogleColab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mihofer/AutoCaptions/blob/master/preliminaries.ipynb)
+   3. `training.ipynb` [![GoogleColab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mihofer/AutoCaptions/blob/master/training.ipynb)
+   4. `inference.ipynb` [![GoogleColab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mihofer/AutoCaptions/blob/master/inference.ipynb)
