@@ -1,0 +1,10 @@
+numpy
+matplotlib
+nltk
+torch
+torchvision
+pycocotools
+jupyter
+ipython
+ipykernel
+scikit-image

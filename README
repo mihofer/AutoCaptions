@@ -1,0 +1,12 @@
+# A little test repo for automatic videocaptioning
+
+Playing around with automatic image captioning using a CNN-RNN model and the Microsoft COCO dataset.
+Taken from <https://github.com/Garima13a/Automatic-Image-Captioning>
+
+## Setup
+
+Tested with Python 3.11
+
+1. Install packages with `pip install -r requirements.txt`
+2. Get the COCO 2014 dataset from <https://cocodataset.org/#home> and store in a `data` folder (folder is defined at the top of the notebooks as `datapath`)
+3. Then run in following order `check_coco.ipynb`, `preliminaries.ipynb`, `training.ipynb`, `inference.ipynb`
